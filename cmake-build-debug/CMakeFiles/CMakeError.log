@@ -1,0 +1,266 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gdc-11: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gdc-11: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gdc-11: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gdc-11: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gdc-11: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gdc-11: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e0ecd/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e0ecd.dir/build.make CMakeFiles/cmTC_e0ecd.dir/build
+Building C object CMakeFiles/cmTC_e0ecd.dir/CMakeCCompilerABI.c.o
+/usr/local/Cellar/gcc/11.2.0/bin/gdc-11    -o CMakeFiles/cmTC_e0ecd.dir/CMakeCCompilerABI.c.o -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCCompilerABI.c
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+make[1]: *** [CMakeFiles/cmTC_e0ecd.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTC_e0ecd/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7acf9/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7acf9.dir/build.make CMakeFiles/cmTC_7acf9.dir/build
+Building C object CMakeFiles/cmTC_7acf9.dir/testCCompiler.c.o
+/usr/local/Cellar/gcc/11.2.0/bin/gdc-11    -o CMakeFiles/cmTC_7acf9.dir/testCCompiler.c.o -c /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+make[1]: *** [CMakeFiles/cmTC_7acf9.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_7acf9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gdc-11: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gdc-11: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/Cellar/gcc/11.2.0/bin/gdc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gdc-11: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gdc-11: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gdc-11: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gdc-11: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5ea2d/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5ea2d.dir/build.make CMakeFiles/cmTC_5ea2d.dir/build
+Building C object CMakeFiles/cmTC_5ea2d.dir/CMakeCCompilerABI.c.o
+/usr/local/Cellar/gcc/11.2.0/bin/gdc-11    -o CMakeFiles/cmTC_5ea2d.dir/CMakeCCompilerABI.c.o -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCCompilerABI.c
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+make[1]: *** [CMakeFiles/cmTC_5ea2d.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTC_5ea2d/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b4735/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b4735.dir/build.make CMakeFiles/cmTC_b4735.dir/build
+Building C object CMakeFiles/cmTC_b4735.dir/testCCompiler.c.o
+/usr/local/Cellar/gcc/11.2.0/bin/gdc-11    -o CMakeFiles/cmTC_b4735.dir/testCCompiler.c.o -c /Users/Tommy/Documents/PI/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+clang: error: invalid version number in '-mmacosx-version-min=11.5'
+make[1]: *** [CMakeFiles/cmTC_b4735.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_b4735/fast] Error 2
+
+
+

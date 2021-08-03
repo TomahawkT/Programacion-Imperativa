@@ -1,0 +1,22 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/11.2.0/bin/gdc-11 -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/Tommy/Documents/PI
+CMake Deprecation Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeForceCompiler.cmake:75 (message):
+  The CMAKE_FORCE_C_COMPILER macro is deprecated.  Instead just set
+  CMAKE_C_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (CMAKE_FORCE_C_COMPILER)
+
+
+CMake Deprecation Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeForceCompiler.cmake:89 (message):
+  The CMAKE_FORCE_CXX_COMPILER macro is deprecated.  Instead just set
+  CMAKE_CXX_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (CMAKE_FORCE_CXX_COMPILER)
+
+
+-- Checking whether C compiler has -isysroot
+-- Checking whether C compiler has -isysroot - yes
+-- Checking whether C compiler supports OSX deployment target flag
+-- Checking whether C compiler supports OSX deployment target flag - yes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Tommy/Documents/PI/cmake-build-debug
