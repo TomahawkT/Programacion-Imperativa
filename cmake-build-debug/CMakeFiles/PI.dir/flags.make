@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = 
 
-C_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk
+C_FLAGS = -Wall -pedantic -std=c99 -lm -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk
 

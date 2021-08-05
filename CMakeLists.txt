@@ -7,3 +7,4 @@ project(PI C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(PI main.c)
+set(CMAKE_C_FLAGS "-Wall -pedantic -std=c99 -lm")

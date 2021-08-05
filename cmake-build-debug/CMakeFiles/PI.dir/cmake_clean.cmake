@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/PI.dir/main.c.o"
+  "CMakeFiles/PI.dir/main.c.o.d"
   "PI"
   "PI.pdb"
 )

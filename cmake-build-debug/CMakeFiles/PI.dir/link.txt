@@ -1,1 +1,1 @@
-/usr/bin/gcc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/PI.dir/main.c.o -o PI 
+/usr/bin/gcc -Wall -pedantic -std=c99 -lm -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/PI.dir/main.c.o -o PI 
